@@ -142,11 +142,9 @@
     margin-top:36px;
 }
 
-/* .b-radius-3{
-    border-radius: 3px;
-    background-color:white;
-
-} */
+.b-radius-3{
+    margin-top:12px;
+}
 
 .home_product_item{
     position: relative;
